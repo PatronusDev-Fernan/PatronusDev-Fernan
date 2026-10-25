@@ -54,7 +54,22 @@ E-commerce desarrollado con **React + Vite** para simular el flujo de compra de 
 
 ### 📱 Proyecto Android
 
-🚧 Próximamente: aplicación Android desarrollada con Kotlin.
+### 🏃 Fitness Run
+
+Aplicación móvil Android orientada al entrenamiento y bienestar, diseñada para ofrecer una experiencia personalizada de acuerdo con la información y objetivos del usuario.
+
+**Funcionalidades en desarrollo:**
+- Registro y perfil de usuario
+- Información física y alimentaria
+- Rutinas de entrenamiento
+- Planes de alimentación
+- Sistema de logros
+- Perfiles para usuarios y coaches
+- Comunidad para apoyo entre usuarios
+
+**Tecnologías:** Kotlin · Android Studio · XML
+
+🚧 Proyecto actualmente en desarrollo y preparación para portafolio.
 
 ## 🎯 Actualmente
 
