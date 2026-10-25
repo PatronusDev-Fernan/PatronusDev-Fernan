@@ -56,20 +56,26 @@ E-commerce desarrollado con **React + Vite** para simular el flujo de compra de 
 
 ### 🏃 Fitness Run
 
-Aplicación móvil Android orientada al entrenamiento y bienestar, diseñada para ofrecer una experiencia personalizada de acuerdo con la información y objetivos del usuario.
+Aplicación Android enfocada en entrenamiento, seguimiento de progreso y personalización de la experiencia del usuario.
 
-**Funcionalidades en desarrollo:**
-- Registro y perfil de usuario
-- Información física y alimentaria
-- Rutinas de entrenamiento
-- Planes de alimentación
-- Sistema de logros
-- Perfiles para usuarios y coaches
-- Comunidad para apoyo entre usuarios
+**Características principales:**
+- Registro e inicio de sesión
+- Gestión y edición de perfil
+- Información de salud y preferencias alimentarias
+- Seguimiento del progreso
+- Historial de progreso
+- Rutinas y logros
+- Comunidad
+- Persistencia de perfil y progreso con Firebase
+- Reglas de seguridad de Firestore
+- Manejo de errores y límites de espera en lecturas
+- Pruebas unitarias y pruebas de reglas de Firestore
 
-**Tecnologías:** Kotlin · Android Studio · XML
+**Tecnologías:** Kotlin · Android Studio · Firebase Authentication · Cloud Firestore · XML
 
-🚧 Proyecto actualmente en desarrollo y preparación para portafolio.
+🧪 **Validación:** 42 pruebas unitarias y 6/6 pruebas de reglas Firestore aprobadas.
+
+💻 [Repositorio](https://github.com/PatronusDev-Fernan/Fitness-Run)
 
 ## 🎯 Actualmente
 
